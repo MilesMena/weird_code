@@ -1,1 +1,1 @@
-# werid_code
+# weird_code
